@@ -8,9 +8,9 @@ import Swal from 'sweetalert2'
 
 
 let conjunto = ref([
-  { id: "00", premio: "", valor: 0, nombre: "", fecha: "", estado: 2 },
-  { id: "01", premio: "", valor: 0, nombre: "", fecha: "", estado: 2 },
-  { id: "02", premio: "", valor: 0, nombre: "", fecha: "", estado: 2 },
+  { id: "100", premio: "", valor: 0, nombre: "", fecha: "", estado: 2 },
+  { id: "101", premio: "", valor: 0, nombre: "", fecha: "", estado: 2 },
+  { id: "102", premio: "", valor: 0, nombre: "", fecha: "", estado: 2 },
   { id: "03", premio: "", valor: 0, nombre: "", fecha: "", estado: 2 },
   { id: "04", premio: "", valor: 0, nombre: "", fecha: "", estado: 2 },
   { id: "05", premio: "", valor: 0, nombre: "", fecha: "", estado: 2 },
