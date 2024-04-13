@@ -493,7 +493,7 @@ function formatoConUnidades(numero) {
     <div class="opciones">
       <div type="button" data-bs-toggle="modal" data-bs-target="#enlistados">
         <img src="../src/assets/recursos_pag_loteria/enlistar.png" alt="" />
-        <p>Enlistar puestos</p>
+        <p>listar puestos</p>
       </div>
 
       <div
