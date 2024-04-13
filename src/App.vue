@@ -156,7 +156,7 @@ function azul() {
   bordes.value = "1px solid #ffffff ";
   letra_color.value = "#000000";
   boton.value = "rgb(0, 215, 255)";
-  document.body.style.backgroundColor = " rgb(52, 114, 190)";
+  document.body.style.backgroundColor = " rgb(80, 112, 10)";
   console.log(fondo.value, letra_color.value, boton.value);
 }
 function pink() {
@@ -488,12 +488,12 @@ function formatoConUnidades(numero) {
 
 <template>
   <div class="contenedor">
-    <header>TALONARIO</header>
+    <header>TALONARIO-RIFA-AAVS</header>
 
     <div class="opciones">
       <div type="button" data-bs-toggle="modal" data-bs-target="#enlistados">
         <img src="../src/assets/recursos_pag_loteria/enlistar.png" alt="" />
-        <p>Enlistar puestos</p>
+        <p>listar puestos</p>
       </div>
 
       <div
